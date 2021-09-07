@@ -1,0 +1,11 @@
+.chipsets:
+
+false         t
+
+clock           c1
+
+output out
+
+.links:
+
+out:1        c1:1

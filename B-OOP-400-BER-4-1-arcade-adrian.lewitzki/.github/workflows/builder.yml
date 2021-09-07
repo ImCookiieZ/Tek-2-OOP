@@ -1,0 +1,15 @@
+name: builder
+on: [push, pull_request]
+jobs:
+  build:
+    name: run
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+    - name: core build
+      run: make core
+    - name: games build
+      run: make games
+    - name: delete
+      run: make fclean

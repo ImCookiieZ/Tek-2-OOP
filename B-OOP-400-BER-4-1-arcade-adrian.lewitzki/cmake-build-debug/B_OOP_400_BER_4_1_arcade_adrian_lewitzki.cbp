@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="B_OOP_400_BER_4_1_arcade_adrian_lewitzki"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="B_OOP_400_BER_4_1_arcade_adrian_lewitzki">
+				<Option output="/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/cmake-build-debug/B_OOP_400_BER_4_1_arcade_adrian_lewitzki" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/../../../../include/c++/9"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/../../../../include/c++/9/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/../../../../include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/cmake-build-debug/Makefile&quot;  VERBOSE=1 B_OOP_400_BER_4_1_arcade_adrian_lewitzki"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="B_OOP_400_BER_4_1_arcade_adrian_lewitzki/fast">
+				<Option output="/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/cmake-build-debug/B_OOP_400_BER_4_1_arcade_adrian_lewitzki" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/../../../../include/c++/9"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/../../../../include/c++/9/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/../../../../include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/cmake-build-debug/Makefile&quot;  VERBOSE=1 B_OOP_400_BER_4_1_arcade_adrian_lewitzki/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/core/core.hpp">
+			<Option target="B_OOP_400_BER_4_1_arcade_adrian_lewitzki"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/core/graphical.cpp">
+			<Option target="B_OOP_400_BER_4_1_arcade_adrian_lewitzki"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/core/graphical.hpp">
+			<Option target="B_OOP_400_BER_4_1_arcade_adrian_lewitzki"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/core/graphical.o">
+			<Option target="B_OOP_400_BER_4_1_arcade_adrian_lewitzki"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/core/main.cpp">
+			<Option target="B_OOP_400_BER_4_1_arcade_adrian_lewitzki"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/core/main.o">
+			<Option target="B_OOP_400_BER_4_1_arcade_adrian_lewitzki"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/core/menu.cpp">
+			<Option target="B_OOP_400_BER_4_1_arcade_adrian_lewitzki"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/core/menu.hpp">
+			<Option target="B_OOP_400_BER_4_1_arcade_adrian_lewitzki"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/core/menu.o">
+			<Option target="B_OOP_400_BER_4_1_arcade_adrian_lewitzki"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/games/nibbler/Nibbler.cpp">
+			<Option target="B_OOP_400_BER_4_1_arcade_adrian_lewitzki"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/games/nibbler/Nibbler.hpp">
+			<Option target="B_OOP_400_BER_4_1_arcade_adrian_lewitzki"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/games/nibbler/Nibbler.o">
+			<Option target="B_OOP_400_BER_4_1_arcade_adrian_lewitzki"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/games/solarfox/Solarfox.cpp">
+			<Option target="B_OOP_400_BER_4_1_arcade_adrian_lewitzki"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/games/solarfox/Solarfox.hpp">
+			<Option target="B_OOP_400_BER_4_1_arcade_adrian_lewitzki"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/games/solarfox/Solarfox.o">
+			<Option target="B_OOP_400_BER_4_1_arcade_adrian_lewitzki"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/graphical/ncurses/ncurses.cpp">
+			<Option target="B_OOP_400_BER_4_1_arcade_adrian_lewitzki"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/graphical/ncurses/ncurses.hpp">
+			<Option target="B_OOP_400_BER_4_1_arcade_adrian_lewitzki"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/graphical/ncurses/ncurses.o">
+			<Option target="B_OOP_400_BER_4_1_arcade_adrian_lewitzki"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/graphical/sdl/sdl.cpp">
+			<Option target="B_OOP_400_BER_4_1_arcade_adrian_lewitzki"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/graphical/sdl/sdl.hpp">
+			<Option target="B_OOP_400_BER_4_1_arcade_adrian_lewitzki"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/graphical/sdl/sdl.o">
+			<Option target="B_OOP_400_BER_4_1_arcade_adrian_lewitzki"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/graphical/sfml/sfml.cpp">
+			<Option target="B_OOP_400_BER_4_1_arcade_adrian_lewitzki"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/graphical/sfml/sfml.hpp">
+			<Option target="B_OOP_400_BER_4_1_arcade_adrian_lewitzki"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/graphical/sfml/sfml.o">
+			<Option target="B_OOP_400_BER_4_1_arcade_adrian_lewitzki"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/structure/main.cpp">
+			<Option target="B_OOP_400_BER_4_1_arcade_adrian_lewitzki"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/tek2/oop/B-OOP-400-BER-4-1-arcade-adrian.lewitzki/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
